@@ -18,7 +18,7 @@ guidebook-policy/
 ## 배포 정보
 
 - GitHub: `hbb302/moduidea-guidebook-policy`
-- Vercel: https://moduidea-guidebook-policy.vercel.app
+- Vercel: https://moduidea-policy-guidebook.vercel.app
 - 챗봇(정책) 연동 버튼: https://moabot-policy.vercel.app
 
 ## 기술판과의 관계
